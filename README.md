@@ -37,6 +37,7 @@ jawaban
 disini dikarenakan eror lalu ternyata solusi nya menggunakan virtual environment baru dan cara mengaktifkan nya memakai source ~/venv-troll/bin/activate lalu membuat file dan direktori trollfs
 dan disini menggunakan python jadi mendownload library nya dahulu jika sudah maka kita membuat file dan isinya berupa python
 ![image](https://github.com/user-attachments/assets/a05ef23f-3849-437a-b273-66bbc1e9659e)
+code diatas untuk membuat jebakan yang akan di mount ke /mnt/troll dan menampilkan 2 file palsu
 
 ## **c. Jebakan Troll (Berlanjut)**
 
